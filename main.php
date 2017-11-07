@@ -43,5 +43,24 @@ function hol(){
 
 }
 
-hol();
+
+function eo(){
+	echo "Odd or Even"."\n";
+	$t1 = rand(1,10);
+	$t2 = $t1%2;
+	$n1 = readline("Please enter 'Odd' or 'Even' : ");
+	if ($t2 == 0){
+
+		$t2 = "Even";
+	} else {$t2 = "Odd";}
+	 if ($n1 == $t2) {
+
+	 	echo "You Win"."\n";
+	 } else {echo "You Lose"."\n";}
+
+	 echo "Generated Random ".$t1."\n";
+}
+
+//hol();
+//eo();
 ?>
