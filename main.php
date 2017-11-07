@@ -39,7 +39,7 @@ function hol(){
         echo ($t1<$t2? "You Win" : "You Lose");
 		echo "\n";
    }
-   else {echo "Error : Please enter valid number dipshit";}
+   else {echo "Error : Please enter valid number";}
 
 }
 
