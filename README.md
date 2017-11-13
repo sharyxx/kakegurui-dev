@@ -1,3 +1,14 @@
-# bet-beta
+# Bet-Beta [Unnamed]
 
-PHP basic src codes for the betting games & etc..
+This is the open-source PHP based non MVC structured scripts!
+
+### More Improvements 
+
+Composer and Delivery scripts will be Added such as 
+
+```
+deploy.sh -php -db [name] 
+```
+
+
+
