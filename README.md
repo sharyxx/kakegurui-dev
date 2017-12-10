@@ -1,6 +1,6 @@
 # kakegurui [in development]
 
-This is the open-source PHP based non MVC structured scripts!
+This is the open-source PHP based non-MVC console based PHP scripts!
 
 ### More Improvements 
 
